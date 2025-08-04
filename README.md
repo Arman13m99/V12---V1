@@ -1,4 +1,4 @@
-# 📁 SnappFood vs TapsiFood Price Comparator V 11-V2 - Project Structure
+# 📁 SnappFood vs TapsiFood Price Comparator V 12 -V1 - Project Structure
 
 ```
 📦 snappfood-tapsifood-comparator/
